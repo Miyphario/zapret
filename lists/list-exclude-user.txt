@@ -133,7 +133,10 @@ akamaized.net
 fastly-download.epicgames.com
 fastly.net
 
-# DbD
+# Dead by Daylight & Behaviour Backend
 bhvr.com
 deadbydaylight.com
 bhvrdbd.com
+api.bhvr.com
+cdn.bhvr.com
+account.bhvr.com
